@@ -7,7 +7,7 @@ Its a Calculator App!
 3. Programmer
 4. Date Calculation
 
-### Cinverters
+### Converters
 1. Currency
 2. Volume
 3. Length
