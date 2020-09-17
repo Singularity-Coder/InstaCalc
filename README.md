@@ -80,3 +80,26 @@ Its a Calculator App!
 55. √2 Digits
 56. √3 Digits
 57. √5 Digits
+
+### Math Tools
+#### Percentage
+1. Discount
+2. Increase
+3. Simpel Percentage
+4. Percentage of X from Y
+5. Percentage Increase / Decrease
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
