@@ -89,6 +89,56 @@ Its a Calculator App!
 4. Percentage of X from Y
 5. Percentage Increase / Decrease
 
+6. Graph
+7. Average / Mean
+8. Proportions / Ratio
+9. Combinations
+
+#### Perimeter / Area
+10. Triangle
+11. Square
+12. Rectangle
+13. Parallelogram
+14. Trapezoid
+15. Rhombus
+16. Pentagon
+17. Hexagon
+18. Circle
+19. Circle Arc
+20. Ellipse
+
+#### Volume
+21. Cube
+22. Rectangular Prism
+23. Square Pyramid
+24. Square Pyramid Frustum
+25. Cylinder
+26. Cone
+27. Conical Frustum
+28. Sphere
+29. Spherical Cap
+30. Spherical Segment
+31. Ellipsoid
+
+#### Equation Solver
+32. Linear Equation
+33. Quadratic Equation
+34. Cubic Equation
+35. System Of Equation
+36. Decimal To Fractions
+37. Prime Checker
+38. Right Triangle Solver
+39. Heron's Formula
+40. Circle Solver
+41. GCF / LCM
+42. Fraction Simplifier
+43. Numeric Base
+44. Number Generator
+
+
+
+
+
 
 
 
