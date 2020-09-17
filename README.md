@@ -6,6 +6,17 @@ Its a Calculator App!
 2. Scientific
 3. Programmer
 4. Date Calculation
+5. Body Mass Index
+6. Daily Caloric Burn
+7. Body Fat Percentage
+8. Sales Tax
+9. Tip Calculator
+10. Loan Calculator
+11. Smoking Cost
+12. Age
+#### Elapsed Time
+13. Years and Days
+14. Hours and Minutes
 
 ### Converters
 1. Currency
@@ -21,6 +32,25 @@ Its a Calculator App!
 11. Data
 12. Pressure
 13. Angle
+14. Force
+15. Acceleration
+16. Torque
+17. Storage
+18. Data Rate
+19. Prefix
+20. Image
+21. Charge 
+22. Current
+23. Resistance
+24. Conductance
+25. Inducatance
+26. Capacitance
+27. Electric Potential
+28. Fuel Economy
+29. Cooking
+30. Frequency
+31. Illuminance
+32. Radiation
 
 ### Generators
 1. Random Numbers
