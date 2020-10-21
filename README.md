@@ -18,7 +18,7 @@ Its a Calculator App!
 13. Years and Days
 14. Hours and Minutes
 
-### Converters
+### Converters and their Formulas
 1. Currency
 2. Volume
 3. Length
